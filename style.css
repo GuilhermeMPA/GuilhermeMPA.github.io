@@ -1,5 +1,8 @@
 .name-description-parameters {
     font-family: source sans pro;
+    position: absolute;
+    top: 40%;
+    left: 30%;
 }
 body {
     background-color: #DAFEB7;
@@ -23,4 +26,18 @@ h1 {
 }
 .li3-size {
     font-size: 17px;
+}
+#fotogui {
+    float: left;
+    padding: 10px;
+    background-color: rosybrown;
+    
+}
+.image-container {
+    border: 2px solid purple;
+    height: 286px;
+    position: relative;
+}
+.my-name {
+    text-align: center;
 }
