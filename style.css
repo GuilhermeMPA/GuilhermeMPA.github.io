@@ -20,10 +20,10 @@ h1 {
     padding: 1px;
 }
 .li1-size {
-    font-size: 22px;
+    font-size: 30px;
 }
 .li2-size {
-    font-size: 19px;
+    font-size: 22px;
 }
 .li3-size {
     font-size: 17px;
@@ -41,4 +41,7 @@ h1 {
 }
 .my-name {
     text-align: center;
+}
+.li-collor .impar {
+    background-color: skyblue;
 }
